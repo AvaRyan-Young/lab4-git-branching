@@ -12,6 +12,7 @@ def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
     print("You take the sword to complete your sacred quest.")
     print("The townsfolk need you to defeat an evil dragon!")
+    print("The dragon can be found in his evil lair.")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
